@@ -164,7 +164,7 @@ p a {
   list-style-type: none;
 }
 .tr {
-  margin-left: 25px;
+  margin: 0 25px;
   border-bottom: 1px solid #e4e4e4;
 }
 
