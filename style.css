@@ -88,6 +88,7 @@ ion-icon {
   height: 100%;
   border: none;
   width: 100%;
+  padding-left: 1rem;
 }
 
 #iconright {
